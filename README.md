@@ -1,6 +1,6 @@
-<h1 allign="center"> Welcome To CodeChef<h1>
+<h1 allign="center"> Welcome To CodeChef😄<h1>
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **sahadnajeeb/sahadnajeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
