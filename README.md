@@ -1,6 +1,6 @@
-<h1 allign="center">CodeChef's Diary😄<h1>
+<h2 allign="center">CodeChef's Diary😄<h2>
 <div>
-<h2>Automation Engineer @ <a style="color:#cfe7fe" href="https://www.quadance.com/">QUADANCE</a></h2>
+<h1>Automation Engineer @ <a style="color:#cfe7fe" href="https://www.quadance.com/">QUADANCE</a></h1>
 </div>
 <!-- ### Hi there 👋 -->
 
