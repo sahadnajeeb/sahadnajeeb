@@ -1,6 +1,6 @@
 <h1 allign="center"> Welcome To CodeChef😄<h1>
 
-🔭 I’m currently working as ...
+🔭Automation Engineer @ <a href="https://www.quadance.com/">QUADANCE </a>...
 
 <!-- ### Hi there 👋 -->
 
