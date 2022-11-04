@@ -1,6 +1,6 @@
 <h1 allign="center"> Welcome To CodeChef😄<h1>
 
-<h2>Automation Engineer @ </h2><a style="color:#cfe7fe" href="https://www.quadance.com/">QUADANCE</a>
+<h2>Automation Engineer @ <a style="color:#cfe7fe" href="https://www.quadance.com/">QUADANCE</a></h2>
 
 <!-- ### Hi there 👋 -->
 
