@@ -1,4 +1,4 @@
-<h1 allign="center">CodeChef's Diary😄<h1>
+<div><h1 allign="center">CodeChef's Diary😄<h1></div>
 <div>
 <h2>Automation Engineer @ <a style="color:#cfe7fe" href="https://www.quadance.com/">QUADANCE</a></h2>
 </div>
